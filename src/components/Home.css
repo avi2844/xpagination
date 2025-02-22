@@ -1,0 +1,16 @@
+th{
+    padding: 12px;
+    text-align: left;
+    background-color: green;
+    color: white;
+}
+table{
+    border-collapse: collapse;
+    border-bottom: 1px solid green;
+    box-shadow: 10px 10px 5px lightgray;
+}
+
+td{
+    padding: 12px;
+    border-bottom: 1px solid lightgray;
+}

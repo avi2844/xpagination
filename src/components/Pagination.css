@@ -1,0 +1,15 @@
+button{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+span{
+    padding: 12px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
