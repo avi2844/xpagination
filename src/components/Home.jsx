@@ -46,12 +46,14 @@ function Home(){
                 </tr>
                 {
                     currentData.map(ele => (
-                        <tr key={ele.id}>
+                        <tbody>
+                            <tr key={ele.id}>
                             <td>{ele.id}</td>
                             <td>{ele.name}</td>
                             <td>{ele.email}</td>
                             <td>{ele.role}</td>
                         </tr>
+                        </tbody>
                     ))
                 }
             </table>
